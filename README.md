@@ -1,5 +1,5 @@
 # AsymmNet
-This repo is the official implementation  with MXNet/Gluon for:
+This repo is the official implementation with MXNet/Gluon for:
  * [AsymmNet: Towards ultralight convolution neural networks using asymmetrical bottlenecks](https://arxiv.org/abs/2104.07770)
 
 ## Block design
@@ -34,7 +34,7 @@ This repo is the official implementation  with MXNet/Gluon for:
 
 ## How to use
 
-Refered [gluoncv_examples_classification](https://cv.gluon.ai/build/examples_classification/dive_deep_imagenet.html)
+Referred [gluoncv_examples_classification](https://cv.gluon.ai/build/examples_classification/dive_deep_imagenet.html)
 
 For training ImageNet
 1. First, prepare data recordfile for ImageNet.
