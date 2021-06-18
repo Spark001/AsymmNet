@@ -1,7 +1,9 @@
 # AsymmNet
 This repo is the official implementation with MXNet/Gluon for:
- * [AsymmNet: Towards ultralight convolution neural networks using asymmetrical bottlenecks](https://arxiv.org/abs/2104.07770)
- * [Presentation video on YouTube](https://youtu.be/CMmZw8D15no)
+ * [AsymmNet: Towards ultralight convolution neural networks using asymmetrical bottlenecks](https://arxiv.org/abs/2104.07770) 
+
+ Video presentation on YouTube: 
+ * https://youtu.be/CMmZw8D15no
 
 ## Block design
 ![Structure compare](images/structure_compare.png)
