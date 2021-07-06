@@ -5,6 +5,10 @@ This repo is the official implementation with MXNet/Gluon for:
  Video presentation on YouTube: 
  * https://youtu.be/CMmZw8D15no
 
+## What's New
+* 2021.07.06 `pytorch` version released
+
+
 ## Block design
 ![Structure compare](images/structure_compare.png)
 
