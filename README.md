@@ -69,11 +69,13 @@ python train.py \
 ## Citation
 
 ```
-@article{yang2021asymmnet,
-  title={AsymmNet: Towards ultralight convolution neural networks using asymmetrical bottlenecks},
-  author={Yang, Haojin and Shen, Zhen and Zhao, Yucheng},
-  journal={arXiv preprint arXiv:2104.07770},
-  year={2021}
+@InProceedings{Yang_2021_CVPR,
+    author    = {Yang, Haojin and Shen, Zhen and Zhao, Yucheng},
+    title     = {AsymmNet: Towards Ultralight Convolution Neural Networks Using Asymmetrical Bottlenecks},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2021},
+    pages     = {2339-2348}
 }
 ```
 
