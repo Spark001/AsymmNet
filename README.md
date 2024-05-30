@@ -6,6 +6,7 @@ This repo is the official implementation with MXNet/Gluon for:
  * https://youtu.be/CMmZw8D15no
 
 ## What's New
+* 2021.11.27 thanks [PaddlePaddle's implementation ](https://aistudio.csdn.net/62f9fab9b99b4c6e4e63d901.html)
 * 2021.08.18 release MXNet trained `weight` && `log.txt` && `mac.txt`
 * 2021.07.06 `pytorch` version released
 
